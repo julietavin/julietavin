@@ -5,3 +5,6 @@ Soy una persona muy curiosa que siempre está interesada en aprender algo nuevo.
 
 ## Contactame
 Mi aventura en el desarrollo backend recién comienza, y estoy convencido de que no hay mejor manera de crecer, tanto personal como profesionalmente, que a través de proyectos colaborativos y entretenidos. Si estás en un camino similar al mío, ¡te invito a que nos conectemos y juntos hagamos posible lo imposible!
+
+[Globant](https://www.globant.com/es/about) ---
+[Egg Live](https://egg.live/es-AR/home) 
