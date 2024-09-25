@@ -8,3 +8,7 @@ Mi aventura en el desarrollo backend recién comienza, y estoy convencido de que
 
 [Globant](https://www.globant.com/es/about) ---
 [Egg Live](https://egg.live/es-AR/home) 
+
+## Idiomas
+- Español
+- Inglés
